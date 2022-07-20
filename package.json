@@ -1,0 +1,14 @@
+{
+  "name": "vue-demo",
+  "version": "1.0.0",
+  "description": "写点前端",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "14.0.1"
+  }
+}
